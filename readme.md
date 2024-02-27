@@ -31,7 +31,11 @@ This will watch the `src/input.css` file and build it to `css/style.css`, which 
 
 
 #PLUGINS
+
+```bash
 npm install @tailwindcss/line-clamp
+```
+
 
 ## License
 
