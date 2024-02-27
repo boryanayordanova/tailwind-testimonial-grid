@@ -28,6 +28,12 @@ npm run watch
 
 This will watch the `src/input.css` file and build it to `css/style.css`, which will be your final CSS file.
 
+
+
+#PLUGINS
+npm install @tailwindcss/line-clamp
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
